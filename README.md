@@ -1,2 +1,2 @@
 # open-marmite
-Free food sharing app
+Free food sharing app.
